@@ -1,7 +1,12 @@
-# Feature that exists in this project
+# Feature
 
 - jsk file for ssl/tls (sha 256) - created by using jre
 - war file for testing purpose
+
+# Future Enhancement
+- try out openssl certificate
+- try out X.509
+- read servlet 3.0 documentation (servlet initializer)
 
 ## Welcome to Apache Tomcat!
 

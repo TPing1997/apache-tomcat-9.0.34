@@ -1,3 +1,8 @@
+# Feature that exists in this project
+
+- jsk file for ssl/tls (sha 256) - created by using jre
+- war file for testing purpose
+
 ## Welcome to Apache Tomcat!
 
 ### What Is It?
